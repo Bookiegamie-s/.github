@@ -16,7 +16,7 @@ Here, you’ll find various **projects, tools, and experiments** that Putra has 
 * **Focus:**
 
   * Fullstack web development
-  * Backend services (Node.js, Go, Java)
+  * Backend services (Node.js, Go, Java, PHP, Phyton)
   * Frontend experiments (React, Next.js, Tailwind)
   * Utility tools & side projects
 
